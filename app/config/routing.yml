@@ -1,0 +1,4 @@
+filix_push:
+    resource: "@FilixPushBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,7 @@
+parameters:
+#    filix_push.example.class: Filix\PushBundle\Example
+
+services:
+    fp.baidu.pusher:
+        class: Filix\PushBundle\Util\BaiduPusher
+
